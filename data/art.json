@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "artist": "Isadore Goldberg",
+      "title": "Lowboy",
+      "created_at": "1953",
+      "medium": "Watercolor and graphite on paperboard.",
+      "description": "This is the description for Lowboy",
+      "image_url": "/images/art/lowboy_1943.8.7876.jpg"
+    },
+    {
+      "artist": "Frank Fumagalli",
+      "title": "Jar",
+      "created_at": "1953",
+      "medium": "Watercolor and graphite on paperboard.",
+      "description": "This is the description for Jar",
+      "image_url": "/images/art/jar_1943.8.7916.jpg"
+    },
+    {
+      "artist": "Ethel Dougan",
+      "title": "Hand Carved Cabinet",
+      "created_at": "1953",
+      "medium": "Watercolor and graphite on paperboard.",
+      "description": "This is the description for Hand Carved Cabinet",
+      "image_url": "/images/art/hand_carved_cabinet_1943.8.7898.jpg"
+    },
+    {
+      "artist": "Charles Charon",
+      "title": "Dough Trough",
+      "created_at": "1953",
+      "medium": "Watercolor and graphite on paperboard.",
+      "description": "This is the description for Dough Trough",
+      "image_url": "/images/art/dough_trough_1943.8.7894.jpg"
+    }
+  ]
+}
