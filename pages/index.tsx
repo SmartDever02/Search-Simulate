@@ -13,10 +13,9 @@ const Home: NextPage = () => {
   const [query, setQuery] = useState<string>('');
   const [arts, setArts] = useState<Array<ArtDataType>>(ART.data);
 
-  useEffect(() => {});
-
   const changeHandler = (e: ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
+
     if (name === 'query') {
       setQuery(value);
 
